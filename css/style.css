@@ -28,8 +28,8 @@ color: red;
 .row-trasform-special:hover{
     transform: scale(1.1);
     transition-property: all;
-    transition-duration: 2s;
-transition-timing-function: ease-in-out;
+    transition-duration: 2.5s;
+transition-timing-function:ease-out;
     
 }
 #margin-top, #margin-top-2,#margin-top-3{
@@ -42,8 +42,12 @@ transition-timing-function: ease-in-out;
     text-shadow: 2px 4px 10px red;
 }
 
-
-
+h1{
+    font-family: 'Lobster', cursive;
+}
+p{
+    font-family: 'Corben', cursive;
+}
 
 
 
